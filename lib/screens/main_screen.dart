@@ -1,7 +1,7 @@
-import 'package:depi_flutter/firstProject/ProfileScreen.dart';
+import 'package:depi_flutter/screens/ProfileScreen.dart';
 //import 'package:depi_flutter/screens/fav.dart';
-import 'package:depi_flutter/firstProject/home_screen.dart';
-import 'package:depi_flutter/firstProject/category.dart';
+import 'package:depi_flutter/screens/home_screen.dart';
+import 'package:depi_flutter/screens/category.dart';
 import 'package:flutter/material.dart';
 
 class MainScreen extends StatefulWidget {

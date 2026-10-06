@@ -1,4 +1,4 @@
-import 'package:depi_flutter/firstProject/onboarding2.dart';
+import 'package:depi_flutter/screens/onboarding2.dart';
 import 'package:flutter/material.dart';
 
 class OnBoarding1 extends StatelessWidget {
